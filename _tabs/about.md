@@ -4,5 +4,8 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+😄 I am Kreetha Sintawee.\
+🌟Master's Degree: Cyber Forensics at Illinois Institute of Technology (On-going)\
+🌟Bachelor's Degree: Computer Science at Chulachomklao Royal Military Academy
+
+---
